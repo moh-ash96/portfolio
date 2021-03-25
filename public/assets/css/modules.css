@@ -404,8 +404,8 @@ button:active,
 }
 
 #main > section.one {
-  background-color: #81918e;
-  background-image: url("../../images/banner.jpg");
+  background-color: #383f60f2;
+  /* background-image: url("../../images/banner.jpg"); */
 }
 
 #main > section.two {
